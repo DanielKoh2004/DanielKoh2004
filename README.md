@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielKoh2004
 - 👀 I’m interested in CODING(EXTREMELY DEPRESSING) AND ANIMES
-- 🌱 I’m currently learning C PROGRAMMING
-- 💞️ I’m looking to collaborate on MIHOYOOOOOOOOO
+- 🌱 I’m currently learning C PROGRAMMING and Python
+- 💞️ obsessed on solving the impossible
 - 📫 How to reach me DM ME ON INSTA @JUSTDANIAO
 
 <!---
