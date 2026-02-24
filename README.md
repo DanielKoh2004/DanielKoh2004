@@ -37,5 +37,5 @@ I am a third-year Information Security student specializing in backend architect
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Insert your LinkedIn URL]
+* **LinkedIn:** www.linkedin.com/in/daniel-koh-yu-hang-9a3541396
 * **Email:** danielkoh2004@gmail.com
