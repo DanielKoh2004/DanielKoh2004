@@ -3,8 +3,6 @@
 
 I build **secure, scalable backend systems** and **AI-assisted security products** with a focus on privacy, reliability, and real-world deployment.
 
-🎯 **Seeking Backend / Security Engineering Internship** (Jun 15 – Nov 29, 2026)
-
 [![Email](https://img.shields.io/badge/Email-danielkoh2004%40gmail.com-red?style=flat&logo=gmail)](mailto:danielkoh2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Koh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-koh-yu-hang-9a3541396)
 ![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20Security%20%7C%20ML-informational)
