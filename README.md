@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Koh 🛡️
 
-**Information Security Major | Backend & Risk Control | "Tech Otakus Save the World"**
+**Information Security Major | Backend & Risk Control
 
 I am a third-year Information Security student specializing in backend architecture, cryptography, and real-time fraud prevention. I build systems that process data securely and efficiently, with a strong focus on game infrastructure and payment risk mitigation.
 
