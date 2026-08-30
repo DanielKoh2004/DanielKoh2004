@@ -1,68 +1,82 @@
 # Hi, I'm Daniel Koh 🛡️
+### Backend & Security Engineer | Privacy-Preserving Systems | Fraud & Risk Intelligence
 
-Information Security major and backend-focused engineer building privacy-preserving systems, scalable backends, and interactive web apps. I work at the intersection of security, machine learning, and web3 — with hands-on projects in fraud detection, zero-knowledge identity, and decentralized apps.
+I build **secure, scalable backend systems** and **AI-assisted security products** with a focus on privacy, reliability, and real-world deployment.
 
-🎯 Currently seeking a Backend / Security Engineering internship (June 15 – Nov 29, 2026).
+🎯 **Seeking Backend / Security Engineering Internship** (Jun 15 – Nov 29, 2026)
 
----
-
-## Core skills & technologies
-- Languages: Python, Java, C++, JavaScript/TypeScript, Kotlin, Dart
-- Web & frontend: React, Next.js, Tailwind CSS, Vite
-- Backends & infra: FastAPI, Uvicorn, Node.js, Redis, Docker
-- Blockchain & web3: Solidity/Hardhat, IPFS, on‑chain integration
-- ML & Data: XGBoost, LightGBM, SHAP, Streamlit
-- Security & privacy: Zero-Knowledge Proofs (ZKP), PII handling, differential privacy, fraud/risk systems
-- Tooling: Jest, Playwright, Hardhat, GitHub Actions
+[![Email](https://img.shields.io/badge/Email-danielkoh2004%40gmail.com-red?style=flat&logo=gmail)](mailto:danielkoh2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Koh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-koh-yu-hang-9a3541396)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20Security%20%7C%20ML-informational)
 
 ---
 
-## Selected projects
+## 🚀 Proof of Work
+- Built fraud/risk pipelines combining **XGBoost + rules + SHAP explainability**
+- Developed privacy-preserving flows with **PII masking + differential privacy concepts**
+- Shipped full-stack systems with **FastAPI/Node.js + Redis + Docker**
+- Built ZK identity prototypes using **Circom/zkSNARK-style verification flows**
 
-- Perlica — Intelligent Discord Copilot (perlica)
-  - An evidence-grounded Discord assistant and copilot combining LLMs, Whisper, OCR, and a hybrid retrieval pipeline; supports knowledge ingestion, grounded responses, and a large test suite.
-
-- Wutong Defense Console / Fraud Detection (fraud-detection, vhack)
-  - AI-powered telecom fraud detection and risk-control platform with a Streamlit dashboard, XGBoost + rule engine, explainability via SHAP, and privacy protections (differential privacy, PII masking).
-
-- FraudShieldAI — vHack 2026 case study (FraudShieldAI-Vhack2026)
-  - Real-time fraud-detection ensemble and dashboard built for vHack 2026. (Repo: https://github.com/ZhuHengg/FraudShieldAI-Vhack2026)
-
-- Fractionalisation DApp (Fractionalisation-DApp)
-  - Property / asset fractionalization DApp with Hardhat smart contracts and a React frontend; includes local-run and deploy instructions and IPFS/media integration guidance.
-
-- Split-Bill (split-bill)
-  - Zero-friction group settlement app built for the Malaysian market: receipt OCR, DuitNow QR integration, ephemeral session architecture, and atomic Redis claiming for secure group settlement flows.
-
-- StockMaster (StockMaster)
-  - Streamlit app for price prediction and analysis (stocks/crypto/commodities) with multi-model training and interactive dashboards.
-
-- ZK Passport & Wallet (ZK-passport, zero-knowledge-passport-system, zk-verifier)
-  - Android-based ZK prover wallet + issuer backend for privacy-preserving identity proofs (Circom/zkSNARK example flows and issuer integration).
-
-- Personal site scaffold (DanielKoh2004.github.io / danielkoh.github.io)
-  - Next.js + Tailwind personal site scaffold (interactive personal site work-in-progress).
-
-For full details, README and run instructions are in each repository (links below).
+> Replace with hard numbers for wow factor (e.g., “reduced response time by 35%”, “improved detection precision to 0.91”, “processed 50k+ events/day”).
 
 ---
 
-## Quick links
-- GitHub: https://github.com/DanielKoh2004
-- Personal site repo: https://github.com/DanielKoh2004/DanielKoh2004.github.io
-- Major repos:
-  - https://github.com/DanielKoh2004/perlica
-  - https://github.com/DanielKoh2004/fraud-detection
-  - https://github.com/DanielKoh2004/Fractionalisation-DApp
-  - https://github.com/DanielKoh2004/split-bill
-  - https://github.com/DanielKoh2004/StockMaster
-  - https://github.com/DanielKoh2004/ZK-passport
-  - https://github.com/ZhuHengg/FraudShieldAI-Vhack2026
+## 🧠 Flagship Projects
 
+### 1) Wutong Defense Console (Fraud Detection)
+AI-powered telecom fraud detection and risk-control platform.
+- **Impact:** real-time scoring + analyst dashboard + explainable predictions
+- **Stack:** Python, Streamlit, XGBoost, SHAP
+- **Highlights:** rule engine, privacy protections, decision transparency
+
+### 2) Perlica — Intelligent Discord Copilot
+Evidence-grounded assistant with multimodal ingestion/retrieval.
+- **Impact:** grounded responses across OCR/voice/text knowledge sources
+- **Stack:** LLM tooling, Whisper, OCR, retrieval pipeline, testing infra
+
+### 3) Split-Bill
+Group settlement app with secure claim architecture.
+- **Impact:** reduced settlement friction via receipt OCR + DuitNow QR
+- **Stack:** backend services, Redis atomic claims, session-safe design
+
+### 4) ZK Passport & Wallet
+Privacy-preserving identity proof workflow.
+- **Impact:** selective disclosure style flows for identity verification
+- **Stack:** Android, issuer backend, zk circuits/prover-verifier integration
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, Java, C++, TypeScript/JavaScript, Kotlin, Dart  
+**Backend/Infra:** FastAPI, Node.js, Redis, Docker, Uvicorn  
+**Frontend:** React, Next.js, Tailwind, Vite  
+**Security/Privacy:** ZKP, PII handling, differential privacy, fraud systems  
+**ML/Data:** XGBoost, LightGBM, SHAP, Streamlit
+
+---
+
+## 📌 Featured Repositories
+- [perlica](https://github.com/DanielKoh2004/perlica)
+- [fraud-detection](https://github.com/DanielKoh2004/fraud-detection)
+- [Fractionalisation-DApp](https://github.com/DanielKoh2004/Fractionalisation-DApp)
+- [split-bill](https://github.com/DanielKoh2004/split-bill)
+- [StockMaster](https://github.com/DanielKoh2004/StockMaster)
+- [ZK-passport](https://github.com/DanielKoh2004/ZK-passport)
+
+---
+
+## 📈 GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=DanielKoh2004&theme=radical)
 
 ---
 
-## Contact
+## 🤝 What I can do for your team
+- Build and harden backend APIs with clean architecture and observability
+- Design fraud/risk scoring pipelines with explainable ML outputs
+- Implement privacy-first data handling in production-minded systems
+
+---
+
+## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/daniel-koh-yu-hang-9a3541396
 - Email: danielkoh2004@gmail.com
