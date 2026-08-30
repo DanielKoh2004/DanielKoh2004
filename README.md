@@ -59,7 +59,7 @@ For full details, README and run instructions are in each repository (links belo
   - https://github.com/DanielKoh2004/ZK-passport
   - https://github.com/ZhuHengg/FraudShieldAI-Vhack2026
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielKoh2004&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=DanielKoh2004&theme=radical)
 
 ---
 
