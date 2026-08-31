@@ -61,7 +61,7 @@ Privacy-preserving identity proof workflow.
 
 ## 📌 Featured Repositories
 - [perlica](https://github.com/DanielKoh2004/perlica)
-- [fraud-detection](https://github.com/DanielKoh2004/fraud-detection)
+- [fraud-detection](https://github.com/DanielKoh2004/wutong_pfinals.git)
 - [Fractionalisation-DApp](https://github.com/DanielKoh2004/Fractionalisation-DApp)
 - [split-bill](https://github.com/DanielKoh2004/split-bill)
 - [StockMaster](https://github.com/DanielKoh2004/StockMaster)
