@@ -9,17 +9,15 @@ I build **secure, scalable backend systems** and **AI-assisted security products
 
 ---
 
-## 🚀 Proof of Work
+## 🚀 Experiences
 - Built fraud/risk pipelines combining **XGBoost + rules + SHAP explainability**
 - Developed privacy-preserving flows with **PII masking + differential privacy concepts**
 - Shipped full-stack systems with **FastAPI/Node.js + Redis + Docker**
 - Built ZK identity prototypes using **Circom/zkSNARK-style verification flows**
 
-> Replace with hard numbers for wow factor (e.g., “reduced response time by 35%”, “improved detection precision to 0.91”, “processed 50k+ events/day”).
-
 ---
 
-## 🧠 Flagship Projects
+## 🧠 Projects
 
 ### 1) Wutong Defense Console (Fraud Detection)
 AI-powered telecom fraud detection and risk-control platform.
