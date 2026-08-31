@@ -40,6 +40,14 @@ Privacy-preserving identity proof workflow.
 - **Impact:** selective disclosure style flows for identity verification
 - **Stack:** Android, issuer backend, zk circuits/prover-verifier integration
 
+#### 5) FraudShieldAI — Real-time fraud detection for ASEAN digital payments
+**Blurb:** FraudShieldAI is a privacy-first, low-latency fraud-detection platform that uses a 3-layer ensemble (LightGBM + Isolation Forest + BehavioralProfiler) with empirical threshold tuning and a closed-loop retraining pipeline. Ideal for payment environments, the repo includes training pipelines, evaluation tooling, and a containerized inference API.
+
+**Highlights**
+- 3-layer ensemble: LightGBM classifier + Isolation Forest anomaly detector + BehavioralProfiler
+- Privacy-first data handling and empirical alert threshold tuning
+- Containerized inference + retraining pipeline for continuous improvement
+
 ---
 
 ## 🛠 Tech Stack
