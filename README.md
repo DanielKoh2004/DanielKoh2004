@@ -58,6 +58,7 @@ Privacy-preserving identity proof workflow.
 - [split-bill](https://github.com/DanielKoh2004/split-bill)
 - [StockMaster](https://github.com/DanielKoh2004/StockMaster)
 - [ZK-passport](https://github.com/DanielKoh2004/ZK-passport)
+- [FraudShieldAI-Vhack2026](https://github.com/ZhuHengg/FraudShieldAI-Vhack2026) — Main ML engineer (Vhack2026)
 
 ---
 
