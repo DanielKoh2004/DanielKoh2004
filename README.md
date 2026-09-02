@@ -35,7 +35,7 @@ Group settlement app with secure claim architecture.
 - **Impact:** reduced settlement friction via receipt OCR + DuitNow QR
 - **Stack:** backend services, Redis atomic claims, session-safe design
 
-### 4) ZK Passport & Wallet
+### 4) Zero-Knowledge Passport & Wallet
 Privacy-preserving identity proof workflow.
 - **Impact:** selective disclosure style flows for identity verification
 - **Stack:** Android, issuer backend, zk circuits/prover-verifier integration
